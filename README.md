@@ -2,6 +2,7 @@
 Face Detection with OpenCV
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agurani" alt="agurani" /> </p>
 
 ![Agurani's GitHub stats](https://github-readme-stats.vercel.app/api?username=agurani&show_icons=true&theme=merko)
 
